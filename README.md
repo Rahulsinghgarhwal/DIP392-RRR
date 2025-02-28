@@ -1,2 +1,3 @@
 # DIP392-RRR
-I created this repository for my University project.
+
+https://docs.google.com/document/d/1pPLLAfVqbKW8oCAl-9JGfQZ71tnsapmw2r1qzdZKJqY/edit?usp=sharing
